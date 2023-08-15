@@ -1,1 +1,1 @@
-# Elliptic-Software
+# Elliptic
